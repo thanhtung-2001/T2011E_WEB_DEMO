@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo DOM</title>
+    <link rel="stylesheet" href="css/demo.dom.css">
+</head>
+<body>
+<h1 id="heading">Xin chào</h1>
+<ol id="dsnguoiyeu">
+
+</ol>
+<h2><span id="min">10</span>:<span id="sec">00</span></h2>
+<script type="text/javascript">
+    var h = document.getElementById("heading");
+    var ol = document.getElementById("dsnguoiyeu");
+    // setInterval(function () {
+    //     if(h.innerText == "Xin chào")
+    //         h.innerText = "Xin chào các bạn";
+    //     else
+    //         h.innerText = "Xin chào";
+    // },3000);
+    // var ds = [];
+    //  setInterval(function () {
+    // h.innerHTML = "<p>Xin chao các bạn</p>";
+    //ds.push("Loan");
+    //var g = prompt("Tên bạn gái mới:");
+    //  ol.innerHTML += "<li>"+g+"</li>";
+    // },3000);
+    setTimeout(function () {
+        h.style.color = "orange";
+        h.style.fontSize  = "50px";
+    },3000)
+    var min = document.getElementById("min");
+    var sec = document.getElementById("sec");
+    var m = 10;
+    var s = 0;
+    var timer = setInterval(function () {
+        min.innerText = m>=10?m:"0"+m;
+        // tuong duong
+        // if(m>=10){
+        //     min.innerText = m;
+        // }else{
+        //     min.innerText = "0"+m;
+        // }
+
+        sec.innerText = s>=10?s:"0"+s;
+        s--;
+        if(s<0){
+            m--;
+            s=59;
+        }
+        if(m<0){
+            clearInterval(timer);
+            console.log("Bùm....");
+        }
+    },1000);
+</script>
+</body>
+</html>

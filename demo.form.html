@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo Form</title>
+    <link rel="stylesheet" href="css/demo.form.css">
+</head>
+<body>
+<form method="post" action="#">
+    <input name="firstname" type="text" required placeholder="ĐIền họ vào đây"/>
+    <input name="lastname" type="text" required placeholder="Điền tên..."/>
+    <input name="youremail" type="email" required placeholder="Email.."/>
+    <input name="pwd" type="password" required placeholder="Password.."/>
+    <input name="birthday" type="date" placeholder="Sinh nhật"/>
+    <input name="birthday" type="time" placeholder="Giờ sinh"/>
+    <input name="birthday" type="month" placeholder="Tháng sinh"/>
+    <input name="birthday" type="week" placeholder="Tháng sinh"/>
+    <input name="age" type="number" placeholder="Tuổi"/>
+    <input name="color" type="color" placeholder="Màu yêu thích"/>
+    <label>
+        <input name="gender" type="radio" checked value="nam"/>Nam
+    </label>
+    <label>
+        <input name="gender" type="radio" value="nữ"/>Nữ
+    </label>
+    <label>
+        <input name="gender" type="radio" value="khac"/>Khác<br/>
+    </label>
+    <label>
+        <input name="confirm" checked  type="checkbox"/>Xác nhận đồng ý điều khoản
+    </label>
+    <select name="city">
+        <option>Vui lòng chọn tỉnh/thành phố..</option>
+        <option selected value="hn">Hà Nội</option>
+        <option value="sg">Sài Gòn</option>
+        <option value="hp">Hải Phòng</option>
+        <option value="ct">Cần Thơ</option>
+        <option value="dn">Đà Nẵng</option>
+    </select>
+    <textarea name="content" placeholder="Mô tả bản thân" rows="5" cols="100"></textarea>
+    <button type="submit">Submit</button>
+    <button type="reset">Reset</button>
+    <button type="button">Button</button>
+</form>
+</body>
+</html>

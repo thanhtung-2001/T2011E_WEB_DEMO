@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Demo jQuery</title>
+    <link rel="stylesheet" href="libs/bootstrap-3.4.1/css/bootstrap.css"/>
+
+</head>
+<body>
+<section class="col-md-12">
+    <div class="container">
+        <h1 id="head">Tiêu đề trang</h1>
+        <p class="blog">Những cảm xúc cá nhân, khoảnh khắc cân não trong thời điểm phải đưa ra các quyết định quan trọng của cuộc chiến chống Covid-19 đã được phó thủ tướng và hai thứ trưởng chia sẻ trong cuộc phỏng vấn trực tuyến với hàng trăm câu hỏi chờ đợi của độc giả.</p>
+        <p class="blog">Vật liệu​ thép dùng cho gối cầu tuyến Metro Số 1 (Bến Thành - Suối Tiên) bị cho không đúng hợp đồng ảnh hưởng chất lượng, tuổi thọ và an toàn dự án.</p>
+    </div>
+</section>
+<section class="col-md-12">
+    <div class="container">
+        <form action="#" method="get">
+            <div class="form-group">
+                <label>Email</label>
+                <input class="form-control" name="email" placeholder="Email"/>
+            </div>
+            <div class="form-group">
+                <label>Username</label>
+                <input class="form-control" name="username" placeholder="Username"/>
+            </div>
+        </form>
+    </div>
+</section>
+<script src="libs/jQuery/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+    // var h = document.getElementById("head");
+    // h.style.color= "red";
+    // var barr = document.getElementsByClassName("blog");// 1 mang cac doi tuong
+    // for(var i=0;i<barr.length;i++){
+    //     barr[i].style.color = "green";
+    // }
+    var hj = $("#head"); // 1 la doi tuong jquery
+    hj.css("color","red");
+
+    var ba = $(".blog");// 1 doi tuong collection
+
+    // console.log(hj);
+    // console.log(ba);
+    var blog = $(".blog");
+    var ip = $("input[name=email]");
+    ip.css("color","orange");
+
+    ba.css({
+        "color":"green",
+        "background-color":"yellow",
+        "margin":"20px"
+    });
+
+    // them 1 class
+    ba.addClass("hello");
+    // xoa class
+    ba.removeClass("hello");
+    //ba.hasClass("hello"); // tra ve true/false
+    if(ba.hasClass("blog")){
+        ba.addClass("xinchao");
+    }
+    var txt = ba.text();
+    // console.log(txt);
+    // ba.text("xin chao, doan van da bi chinh sua");
+
+    var ht = ba.html(); // tra ve html cua phan tu dau tien
+    // console.log(ht);
+    hj.html(hj.html()+"<a href='http://google.com'>Truy cập google</a>");
+    //
+    ba.append("<a href='http://google.com'>Truy cập google</a>");
+    ba.prepend("<a href='http://google.com'>Bắt đầu...</a>");
+</script>
+</body>
+</html>
