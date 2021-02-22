@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45888afe-efd4-4ec5-95a1-3074917b5cba" name="Default Changelist" comment="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <list id="2be5f1e5-dff4-41f0-adb6-c90ab28df051" name="Revert &quot;asd&quot;" comment="Revert &quot;asd&quot;&#10;&#10;This reverts commit 9364425e" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="T2011_WEB-DEMO" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/thanhtung-2001/Project_Demo" />
+        <option value="https://github.com/thanhtung-2001/T2011E_WEB_DEMO" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m9CDV32Z5KVUxwcGNS3t9tHj0A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apps\T2011E_WEB_DEMO\libs" />
+      <recent name="C:\Apps\T2011E_WEB_DEMO\imgs" />
+      <recent name="C:\Apps\T2011E_WEB_DEMO" />
+      <recent name="C:\Apps\T2011E_WEB_DEMO\js" />
+      <recent name="C:\Apps\T2011E_WEB_DEMO\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45888afe-efd4-4ec5-95a1-3074917b5cba" name="Default Changelist" comment="aaa" />
+      <created>1608896299416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608896299416</updated>
+      <workItem from="1608896300503" duration="9498000" />
+      <workItem from="1609153121483" duration="5371000" />
+      <workItem from="1610103715939" duration="7333000" />
+      <workItem from="1610361593895" duration="9160000" />
+      <workItem from="1610517808032" duration="4082000" />
+      <workItem from="1610698739281" duration="252000" />
+      <workItem from="1610707407978" duration="655000" />
+      <workItem from="1610708298885" duration="4515000" />
+      <workItem from="1610718480677" duration="865000" />
+      <workItem from="1610966414343" duration="2122000" />
+      <workItem from="1610969146823" duration="1171000" />
+      <workItem from="1610970369548" duration="1711000" />
+      <workItem from="1610972167630" duration="1778000" />
+      <workItem from="1610973976818" duration="452000" />
+      <workItem from="1610974441636" duration="31000" />
+      <workItem from="1610974493487" duration="1964000" />
+      <workItem from="1610977052448" duration="2658000" />
+      <workItem from="1611139895004" duration="60000" />
+      <workItem from="1611139998778" duration="9256000" />
+      <workItem from="1611297961721" duration="2214000" />
+      <workItem from="1611312618463" duration="10994000" />
+      <workItem from="1611572415180" duration="6950000" />
+      <workItem from="1613990790234" duration="313000" />
+      <workItem from="1613991132802" duration="1870000" />
+      <workItem from="1613994351633" duration="253000" />
+      <workItem from="1613998631696" duration="1332000" />
+      <workItem from="1614001688745" duration="173000" />
+      <workItem from="1614002042938" duration="396000" />
+    </task>
+    <task id="LOCAL-00001" summary="aaa">
+      <created>1608896422103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608896422103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="asd">
+      <created>1608897127755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608897127755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="up code s2">
+      <created>1608902240311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608902240311</updated>
+    </task>
+    <task id="LOCAL-00004" summary="up code">
+      <created>1610708473875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610708473875</updated>
+    </task>
+    <task id="LOCAL-00005" summary="up code">
+      <created>1610969984085</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610969984085</updated>
+    </task>
+    <task id="LOCAL-00006" summary="asd">
+      <created>1610970656569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610970656569</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert &quot;asd&quot;&#10;&#10;This reverts commit ba052ed0">
+      <created>1610970885374</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610970885374</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixup! asd">
+      <created>1610972037958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610972037958</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" asd">
+      <created>1610973446264</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973446264</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" asd">
+      <created>1610973493570</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973493570</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" asd">
+      <created>1610973511988</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973511988</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Revert &quot; asd&quot;&#10;&#10;This reverts commit 0b9dc360">
+      <created>1610973795549</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973795549</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" aaa">
+      <created>1610973890839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973890839</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1610973931540</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1610973931540</updated>
+    </task>
+    <task id="LOCAL-00015" summary="aaa">
+      <created>1610974363378</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1610974363378</updated>
+    </task>
+    <task id="LOCAL-00016" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614001711386</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1614001711386</updated>
+    </task>
+    <task id="LOCAL-00017" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614001738119</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614001738119</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/T2011_WEB-DEMO" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="up code s4" />
+    <MESSAGE value="up code s2" />
+    <MESSAGE value="up code&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <MESSAGE value="up code" />
+    <MESSAGE value="asd" />
+    <MESSAGE value="asd&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <MESSAGE value="Revert &quot;asd&quot;&#10;&#10;This reverts commit ba052ed0" />
+    <MESSAGE value="fixup! asd" />
+    <MESSAGE value="Revert &quot; asd&quot;&#10;&#10;This reverts commit 0b9dc360" />
+    <MESSAGE value=" asd" />
+    <MESSAGE value=" aaa" />
+    <MESSAGE value=" aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <MESSAGE value="aaa" />
+    <MESSAGE value="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+</project>
