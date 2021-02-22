@@ -2,30 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45888afe-efd4-4ec5-95a1-3074917b5cba" name="Default Changelist" comment="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/demo.map.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.boostrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.bootstrap.js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.dom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.event.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_jquery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_jquery2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_js_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_js_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_json_ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_json_ajax2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_weather.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lap 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/OwlCarousel2-2.3.4/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/OwlCarousel2-2.3.4/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/OwlCarousel2-2.3.4/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/OwlCarousel2-2.3.4/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session2_democss.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/session3_boxmodel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="2be5f1e5-dff4-41f0-adb6-c90ab28df051" name="Revert &quot;asd&quot;" comment="Revert &quot;asd&quot;&#10;&#10;This reverts commit 9364425e" />
@@ -96,7 +72,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -158,6 +134,8 @@
       <workItem from="1614002835534" duration="341000" />
       <workItem from="1614003178027" duration="1924000" />
       <workItem from="1614007263845" duration="1752000" />
+      <workItem from="1614009050176" duration="42000" />
+      <workItem from="1614009218213" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1608896422103</created>
@@ -278,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614001738119</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614009059219</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1614009059219</updated>
+    </task>
+    <task id="LOCAL-00019" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614009083755</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1614009083755</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
