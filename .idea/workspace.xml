@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45888afe-efd4-4ec5-95a1-3074917b5cba" name="Default Changelist" comment="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/css/weather.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/5.8_ava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/94b1ea122351ca0f9340.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Chùa_Trấn_Quốc,_Hà_Nội.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ET001_03-vietnam-weather-street-rain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Ha-Noi-dem-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/download (1).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/download (2).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/download.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ho-guom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/khi-hau-ha-noi-vao-mua-dong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/khi-hau-ha-noi-vao-mua-he.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/khi-hau-ha-noi-vao-mua-thu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/khi-hau-ha-noi-vao-mua-xuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/thoi-tiet-25.12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/tp-Hồ-Chí-Minh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/ttxvn_mua_to_keo_dai_tren_dien_rong_nhieu_tuyen_duong_tai_thanh_pho_ho_chi_minh_bi_ngap__194532210_4788142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="2be5f1e5-dff4-41f0-adb6-c90ab28df051" name="Revert &quot;asd&quot;" comment="Revert &quot;asd&quot;&#10;&#10;This reverts commit 9364425e" />
@@ -72,6 +92,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -88,11 +109,11 @@
       <recent name="C:\Apps\T2011E_WEB_DEMO\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Apps\T2011E_WEB_DEMO\css" />
       <recent name="C:\Apps\T2011E_WEB_DEMO" />
       <recent name="C:\Apps\T2011E_WEB_DEMO\libs\OwlCarousel2-2.3.4" />
       <recent name="C:\Apps\T2011E_WEB_DEMO\libs" />
       <recent name="C:\Apps\T2011E_WEB_DEMO\imgs" />
-      <recent name="C:\Apps\T2011E_WEB_DEMO\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -136,6 +157,9 @@
       <workItem from="1614007263845" duration="1752000" />
       <workItem from="1614009050176" duration="42000" />
       <workItem from="1614009218213" duration="49000" />
+      <workItem from="1614009268853" duration="69000" />
+      <workItem from="1614142626977" duration="1557000" />
+      <workItem from="1614151945527" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1608896422103</created>
@@ -270,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614009083755</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614009275898</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1614009275898</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
