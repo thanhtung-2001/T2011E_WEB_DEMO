@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45888afe-efd4-4ec5-95a1-3074917b5cba" name="Default Changelist" comment="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/Demo Weather/libs/OwlCarousel2-2.3.4/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/owl.video.play.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weather.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo Weather/dangky.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo Weather/dangky.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo Weather/dangnhap.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo Weather/dangnhap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo Weather/mientrung.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo Weather/mientrung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo Weather/mientrunghanggio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo Weather/mientrunghanggio.html" afterDir="false" />
     </list>
     <list id="2be5f1e5-dff4-41f0-adb6-c90ab28df051" name="Revert &quot;asd&quot;" comment="Revert &quot;asd&quot;&#10;&#10;This reverts commit 9364425e" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +86,7 @@
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weathear" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -142,6 +154,7 @@
       <workItem from="1614142626977" duration="1557000" />
       <workItem from="1614151945527" duration="5174000" />
       <workItem from="1614334214573" duration="36000" />
+      <workItem from="1614335770813" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1608896422103</created>
@@ -297,7 +310,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614165714720</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614335788002</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1614335788002</updated>
+    </task>
+    <task id="LOCAL-00024" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614335833623</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1614335833623</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
