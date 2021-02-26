@@ -74,7 +74,7 @@
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weathear" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -140,7 +140,8 @@
       <workItem from="1614009218213" duration="49000" />
       <workItem from="1614009268853" duration="69000" />
       <workItem from="1614142626977" duration="1557000" />
-      <workItem from="1614151945527" duration="3122000" />
+      <workItem from="1614151945527" duration="5174000" />
+      <workItem from="1614334214573" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1608896422103</created>
@@ -289,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614154021973</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="aaa&#10;&#10;Signed-off-by: Thanh Tùng &lt;dothanhtung365@gmail.com&gt;">
+      <created>1614165714720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614165714720</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
